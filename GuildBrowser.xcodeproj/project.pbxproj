@@ -624,6 +624,7 @@
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.charliefulton.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d4c8066b-de72-43e9-8a80-bdd4c6f57fa8";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -638,6 +639,7 @@
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.charliefulton.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d4c8066b-de72-43e9-8a80-bdd4c6f57fa8";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
